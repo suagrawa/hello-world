@@ -1,5 +1,3 @@
 # hello-world
 
-Hi humans!
-
-I like ice cream :)
+## This is a markdown file.
